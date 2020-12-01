@@ -1,0 +1,8 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:trsp400/clean-node-api.git",
+  "author": "Thiago Robles <roblesthiago38@gmail.com>",
+  "license": "MIT"
+}
